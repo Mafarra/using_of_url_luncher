@@ -2,6 +2,7 @@
     package="com.example.url_luncher_test">
    <application
         android:label="url_luncher_test"
+        android:requestLegacyExternalStorage="true"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
